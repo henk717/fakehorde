@@ -1,0 +1,28 @@
+[
+  {
+    "max_length": 80,
+    "max_content_length": 1024,
+    "requests_fulfilled": 144,
+    "kudos_rewards": 14669.14,
+    "kudos_details": {
+      "generated": 14260.72,
+      "uptime": 408
+    },
+    "performance": "15.3 tokens per second",
+    "threads": 1,
+    "uptime": 48334,
+    "maintenance_mode": false,
+    "nsfw": true,
+    "trusted": false,
+    "uncompleted_jobs": 0,
+    "models": [
+      "Please migrate to the new Horde!"
+    ],
+    "team": {
+      "name": null,
+      "id": null
+    },
+    "name": "Please migrate to the new Horde!",
+    "id": "Please migrate to the new Horde!",
+    "online": true
+  },
